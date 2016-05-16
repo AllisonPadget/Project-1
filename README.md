@@ -5,3 +5,5 @@ Personal Profile Page
 
 
 Customize a web page to create a personal profile page using HTML and CSS.
+
+Passed with "Exceeds Expectations" grade.
